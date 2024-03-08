@@ -156,7 +156,7 @@ export default function Register() {
                         </FormGroup>
                         <Button disabled={!isValid} data-cy="submit-button"
                         >
-                            Kayıt Ol
+                            Kayıt Ol!
                         </Button>
                     </Form>
                 </CardBody>
